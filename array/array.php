@@ -7,7 +7,7 @@ echo $buah[2];
 echo "</br>";
 
 //penamaan isi array
-$buah['semangka'] = "isinya merah";
+$buah['melon'] = "isinya merah";
 $buah['jeruk'] = "rasanya manis";
 $buah['apel'] = "warnanya merah";
 $buah['anggur'] = "harganya mahal";
@@ -19,7 +19,7 @@ echo "</br>";
 
 //penamaan isi array variabel buah
 $buah = array(
-	'semangka' => "isinya merah",
+	'melon' => "isinya merah",
 	'jeruk' => "rasanya manis",
 	'apel' => "warnanya merah",
 	'anggur' => "harganya mahal"
